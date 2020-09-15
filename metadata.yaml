@@ -1,0 +1,34 @@
+_repo: Geography-of-the-Air_63122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greely, A. W. (Adolphus Washington)
+    aliases:
+    - Greely, Adolphus Washington
+    - Greely, Adolphus W. (Adolphus Washington)
+    birthdate: 1844
+    deathdate: 1935
+    gutenberg_agent_id: '38068'
+    url: http://www.gutenberg.org/2009/agents/38068
+    wikipedia: https://en.wikipedia.org/wiki/Adolphus_Greely
+description:
+- 'Reprinted from: The National Geographic Magazine, Vol. III., PP. 41-52, May 1,
+  1891'
+- Annual report [1891] by vice-president [of the National Geographic Society], A.
+  W. Greely.
+gutenberg_issued: '2020-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcc 'G'
+- !lcsh 'Geography'
+- !lcsh 'Meteorology'
+- GITenberg
+title: Geography of the Air
+url: http://www.gutenberg.org/ebooks/63122
